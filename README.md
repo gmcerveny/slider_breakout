@@ -1,5 +1,7 @@
 # Slider Breakout PCB
 
+![/slider_breakout.png]
+
 Designed for use in prototyping creative musical interfaces.  Great
 for cross faders, levels, synthesizers, sequencers, or transport
 control.
