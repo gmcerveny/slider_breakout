@@ -1171,7 +1171,7 @@ Standard 1-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="P3@2" library="SparkFun-Connectors" deviceset="M01" device="PTH"/>
 <part name="P2@2" library="SparkFun-Connectors" deviceset="M01" device="PTH"/>
 <part name="P1@2" library="SparkFun-Connectors" deviceset="M01" device="PTH"/>
-<part name="LOGO1" library="ohw-logo" deviceset="OSHW_LOGO_FILL" device="X0070-NT"/>
+<part name="LOGO1" library="ohw-logo" deviceset="OSHW_LOGO_FILL" device="X0100-NT"/>
 </parts>
 <sheets>
 <sheet>
@@ -1185,7 +1185,7 @@ Standard 1-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <instance part="P3@2" gate="G$1" x="83.82" y="55.88" rot="MR0"/>
 <instance part="P2@2" gate="G$1" x="83.82" y="45.72" rot="MR0"/>
 <instance part="P1@2" gate="G$1" x="83.82" y="35.56" rot="MR0"/>
-<instance part="LOGO1" gate="G$1" x="55.88" y="22.86"/>
+<instance part="LOGO1" gate="G$1" x="55.88" y="25.4"/>
 </instances>
 <busses>
 </busses>
